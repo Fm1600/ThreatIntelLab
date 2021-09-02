@@ -8,6 +8,7 @@ rule banloadDetect
 		$e="74c72d885e167c1ce277d33f8d8798f72c9c1c4c"
 		$f="AllowIllegalWrites" nocase
 		$g="AllowIllegalReads" nocase
+		$h="F:\Sistema\Drivers-Denis\FileDelete\FileDelete\Debug\B.pdb"
 	condition:
-		$a or $b or $c or $d or $e or $f or $g 
+		$a or $b or $c or $d or $e or $f or $g or $h
 }
