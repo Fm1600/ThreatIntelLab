@@ -1,0 +1,342 @@
+!This program cannot be run in DOS mode.
+Rich
+.text
+h.rdata
+H.data
+.pdata
+HINIT
+b.reloc
+D$hH
+D$`H
+D$`H
+D$TH
+L$Tf
+D$hH
+D$hH
+D$`H
+D$`f
+D$XH
+D$@H
+D$8H
+D$(`
+T$PH
+D$XH
+D$pH
+D$XH
+D$xH
+D$XH
+D$XH
+T$PH
+T$PH
+D$XH
+L$pH
+D$XH
+L$xH
+D$PH
+D$@H
+D$ H
+D$ H
+D$(H
+D$`H
+L$(H
+D$(H
+L$XH
+D$XH
+D$PH
+T$PL
+L$PH
+D$0H
+T$`H
+T$$H
+D$$H
+D$@!
+D$xH
+D$ E3
+D$xH
+D$xH
+D$xH
+D$xH
+D$HH
+L$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$HH
+D$ H
+L$ L
+D$0H
+D$0H
+L$XH
+D$0H
+L$`H
+L$ D
+D$hE3
+D$`H
+D$hH
+L$PH
+D$(H
+D$hH
+|$P3
+L$Pf
+L$hf
+D$PH
+D$PH
+D$PH
+Siba
+L$PH
+D$PH
+D$PH
+D$PH
+D$PH
+D$`H
+D$`H
+D$`H
+D$`H
+L$`H
+D$`H
+D$`H
+L$PH
+T$xH
+D$XH
+JmazH
+D$PH
+D$pH
+D$pH
+D$pH
+L$PH
+D$pH
+D$`H
+JmazH
+D$PH
+L$Pf
+D$PH
+D$PH
+D$PH
+D$PH
+L$PH
+D$XH
+D$8H
+D$8H
+D$8H
+L$HH
+D$8H
+L$XH
+D$8H
+L$8H
+D$8H
+D$8H
+D$8H
+L$0H
+D$@H
+D$@H
+D$@H
+D$@H
+D$8H
+D$4H
+D$0H
+D$pH
+D$0H
+L$pH
+D$0H
+L$XH
+D$0H
+L$HH
+D$0H
+L$0H
+D$@H
+D$@H
+D$@H
+D$@H
+D$0H
+D$8H
+D$@H
+JmazH
+D$ H
+D$@H
+D$(H
+|$ 3
+D$ H
+L$@H
+D$ H
+D$@H
+JmazH
+Normal Call MJ[%d] %p
+FsCallDriver returned [%08X]
+Could not open drive %c: %x
+Could not get fileobject from handle: %c
+IrpFileCreate returned [%08X]
+Force Delete ...
+IrpSetFileAttributes returned [%08X]
+IrpFileDelete returned [%08X]
+RSDS
+F:\Sistema\Drivers-Denis\FileDelete\FileDelete\x64\Debug\B.pdb
+.text$mn
+.text$mn$00
+.text$s
+.idata$5
+.00cfg
+.gfids
+.rdata
+.rdata$zzzdbg
+.xdata
+.data
+.pdata
+INIT
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+\$0H
+RtlInitUnicodeString
+RtlCopyUnicodeString
+DbgPrint
+KeInitializeEvent
+KeSetEvent
+KeWaitForSingleObject
+ExAllocatePoolWithTag
+ExFreePoolWithTag
+MmUnlockPages
+IoAllocateIrp
+IoCreateFile
+IoFreeIrp
+IoFreeMdl
+ObReferenceObjectByHandle
+ObfReferenceObject
+ObfDereferenceObject
+	ZwClose
+IoGetFileObjectGenericMapping
+ObCreateObject
+IoGetBaseFileSystemDeviceObject
+	SeCreateAccessState
+IoFileObjectType
+KeBugCheckEx
+ntoskrnl.exe
+>0<0
+0!0	
+thawte, Inc.1(0&
+Certification Services Division1806
+/(c) 2006 thawte, Inc. - For authorized use only1
+thawte Primary Root CA0
+100208000000Z
+200207235959Z0J1
+Thawte, Inc.1$0"
+Thawte Code Signing CA - G20
+,p&7E
+rqD=X
+n8}v
+-0+0)
+#http://crl.thawte.com/ThawtePCA.crl0
+&0$0"
+http://ocsp.thawte.com0
+VeriSignMPKI-2-100
+WHP0
+~Smj
+AMAJo
+'8*)
+;*#h
+G<r/
+Oa>s
+k<%0
+Thawte, Inc.1$0"
+Thawte Code Signing CA - G20
+190311000000Z
+200131235959Z0
+SANTA CATARINA1
+BLUMENAU110/
+(M2 AGRO DESENVOLVIMENTO DE SISTEMAS LTDA110/
+(M2 AGRO DESENVOLVIMENTO DE SISTEMAS LTDA0
+Vh= p&
+Bxqj
+A0*k{
+vV8d
+v'Y[
+$0"0 
+http://th.symcb.com/th.crl0
+g0e0c
+0Y0&
+https://www.thawte.com/cps0/
+!https://www.thawte.com/repository0W
+K0I0
+http://th.symcd.com0&
+http://th.symcb.com/th.crt0
+0p+SvLC
+	jOY
+Washington1
+Redmond1
+Microsoft Corporation1)0'
+ Microsoft Code Verification Root0
+110222193157Z
+210222194157Z0
+thawte, Inc.1(0&
+Certification Services Division1806
+/(c) 2006 thawte, Inc. - For authorized use only1
+thawte Primary Root CA0
+l[HhIY7
+tf/j8
+S}+	
+>n)i
+WHP0
+	TPk
+N0L0J
+Dhttp://crl.microsoft.com/pki/crl/products/MicrosoftCodeVerifRoot.crl0
+j7'z
+37mj
+^88:+q
+0^0J1
+Thawte, Inc.1$0"
+Thawte Code Signing CA - G2
+}Zqq
+M.tr1
+0!0	
+20190401012438Z
+[0Y1
+GMO GlobalSign Pte Ltd1)0'
+ GlobalSign TSA for Standard - G2
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+160524000000Z
+270624000000Z0Y1
+GMO GlobalSign Pte Ltd1)0'
+ GlobalSign TSA for Standard - G20
+M7Sx4o
+E0C0A
+0402
+&https://www.globalsign.com/repository/0	
+;0907
+1http://crl.globalsign.com/gs/gstimestampingg2.crl0T
+H0F0D
+8http://secure.globalsign.com/cacert/gstimestampingg2.crt0
+H)PK
+[w	X@
+a$hQ
+#Cs<
+[o*"
+08>fC
+Uz8ht
+GlobalSign nv-sa1
+Root CA1
+GlobalSign Root CA0
+110413100000Z
+280128120000Z0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G20
+dZF/
+0Erm9
+b'_o
+@0>0<
+0402
+&https://www.globalsign.com/repository/03
+,0*0(
+"http://crl.globalsign.net/root.crl0
+0h0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G2
+190401012438Z0#
+0l0V
+T0R1
+GlobalSign nv-sa1(0&
+GlobalSign Timestamping CA - G2
+1M,~
+ut7H
